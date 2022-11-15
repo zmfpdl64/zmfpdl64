@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId={zmfpdl64})(https://slusy.io/profile/{zmfpdl64}?sapzil_guide=true)
+[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId={zmfpdl64})(https://slusy.io/profile/{zmfpdl64}?sapzil_guide=true)
