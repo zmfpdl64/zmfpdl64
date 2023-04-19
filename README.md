@@ -4,19 +4,19 @@
 
 <div align="center">
 
-<br><br>
+<br>
 
 ### Github State
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfpdl64&show_icons=true&theme=shades-of-purple)
 
-<br><br>
+<br>
 
 <h3> 👨‍🏫Problem Solving(BOJ)</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmfpdl64)](https://solved.ac/zmfpdl64)
 
-<br><br>
+<br>
 
   ### 📃 Skills 
   
