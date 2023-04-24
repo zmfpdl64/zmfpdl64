@@ -4,23 +4,39 @@
 
 <div align="center">
 
-<br>
-
-### Github State
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfpdl64&show_icons=true&theme=shades-of-purple)
-
-<br>
-
-<h3> 👨‍🏫Problem Solving(BOJ)</h3>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmfpdl64)](https://solved.ac/zmfpdl64)
-
-<br>
-
-  ### 📃 Skills 
+  ---
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3> 📜Github State </h3>
+    </td>
+    <td width="50%" align="center">
+      <h3> 👨‍🏫Problem Solving(BOJ)</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img  src="https://github-readme-stats.vercel.app/api?username=zmfpdl64&show_icons=true&theme=shades-of-purple"/>
+    </td>
+    <td>
+      <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zmfpdl64"/>
+    </td>
+  </tr>
+</table>
+ 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmfpdl64&layout=compact"><br><br>
+---
+
+  
+  
+<div align="left">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmfpdl64&theme=dracula&layout=compact&langs_count=10"/>
+</div>
+<div align="center">
+  
+  <b>🧑‍💻Skills </b>
+  
   <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
@@ -29,12 +45,47 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
+  ### 😊 Visitors
   
+  <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
+  <br>
   <br>
   
-  ### Visitors
+  </div>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   ---
+   
+   ### 🖼️My Project
   
-  
+  [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JAVA_SNS&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JAVA_SNS">
+</picture>](https://github.com/zmfpdl64/JAVA_SNS)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS">
+</picture>](https://github.com/zmfpdl64/StudyCafe-AWS)
+
+### ✍️Practice
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy">
+</picture>](https://github.com/zmfpdl64/JpaORMStudy)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Programers_code_test&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Programers_code_test">
+</picture>](https://github.com/zmfpdl64/Programers_code_test)
+
+### 📕 Learning
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=mvc_base&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=mvc_base">
+</picture>](https://github.com/zmfpdl64/mvc_base)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=LearningReact&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=LearningReact">
+</picture>](https://github.com/zmfpdl64/LearningReact)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=fastcampus-project-board&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=fastcampus-project-board">
+</picture>](https://github.com/zmfpdl64/fastcampus-project-board)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=django_woojin_web&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=django_woojin_web">
+</picture>](https://github.com/zmfpdl64/django_woojin_web)
+ 
   </div>
