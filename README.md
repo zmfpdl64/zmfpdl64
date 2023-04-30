@@ -3,6 +3,12 @@
 ![image](https://user-images.githubusercontent.com/69797420/232721853-b1e3c4fe-a92b-4e90-91b3-165dfc851848.png)
 
 <div align="center">
+  
+  ### (●'◡'●) Hello Welocome to my Github
+  
+  ### contact me
+  EMAIL: zmfpdl64@naver.com
+  
 
   ---
 <table>
