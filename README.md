@@ -4,10 +4,10 @@
 
 <div align="center">
   
-  ### (●'◡'●) Hello Welocome to my Github
+  ### 🖐️(●'◡'●)🖐️ Welocome to my Github
   
   ### contact me
-  EMAIL: zmfpdl64@naver.com
+  Email: zmfpdl64@naver.com
   
 
   ---
