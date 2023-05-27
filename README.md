@@ -74,7 +74,7 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=crawlling&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=crawlling">
-</picture>](https://github.com/zmfpdl64/JpaORMStudy)
+</picture>](https://github.com/zmfpdl64/crawlling)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy">
 </picture>](https://github.com/zmfpdl64/JpaORMStudy)
