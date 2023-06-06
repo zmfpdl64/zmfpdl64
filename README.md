@@ -69,6 +69,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS">
 </picture>](https://github.com/zmfpdl64/StudyCafe-AWS)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=SUPER&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=SUPER">
+</picture>](https://github.com/zmfpdl64/SUPER)
 
 ### ✍️Practice
 
