@@ -10,7 +10,7 @@
   Email: zmfpdl64@naver.com
 
   ### 현재 운영중인 서버
-  Kbookmark: https://kbookmark.co.kr
+  Kbookmark: https://kbookmark.co.kr   ||   [깃허브](https://github.com/zmfpdl64/BookMark?tab=readme-ov-file)
   
 
   ---
