@@ -8,6 +8,9 @@
   
   ### contact me
   Email: zmfpdl64@naver.com
+
+  ### 현재 운영중인 서버
+  Kbookmark: https://kbookmark.co.kr
   
 
   ---
