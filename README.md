@@ -1,113 +1,93 @@
-<meta name="google-site-verification" content="P7P7DYL-OtpAUpWnhk_vn_BYleemkEKepbq-iUeUJq4" />
-
-![image](https://user-images.githubusercontent.com/69797420/232721853-b1e3c4fe-a92b-4e90-91b3-165dfc851848.png)
-
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/69797420/232721853-b1e3c4fe-a92b-4e90-91b3-165dfc851848.png" width="120" />
   
-  ### 🖐️(●'◡'●)🖐️ Welocome to my Github
-  
-  ### contact me
-  Email: zmfpdl64@naver.com
+  <h1 style="color:#7f5af0;font-size:2.5em;">🚀 zmfpdl64's Creative Space</h1>
+  <p><b>코드, 데이터, 그리고 상상을 현실로</b></p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64%2Fhit-counter&count_bg=%237f5af0&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+</div>
 
-  ### 현재 운영중인 서버
-  Kbookmark: https://kbookmark.co.kr   ||   [깃허브](https://github.com/zmfpdl64/BookMark?tab=readme-ov-file)
-  
-
-  ---
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3> 📜Github State </h3>
-    </td>
-    <td width="50%" align="center">
-      <h3> 👨‍🏫Problem Solving(BOJ)</h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=zmfpdl64&show_icons=true&theme=shades-of-purple"/>
-    </td>
-    <td>
-      <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zmfpdl64"/>
-    </td>
-  </tr>
-</table>
- 
-  
 ---
 
-  
-  
-<div align="left">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmfpdl64&theme=dracula&layout=compact&langs_count=10"/>
-</div>
 <div align="center">
-  
-  <b>🧑‍💻Skills </b>
-  
-  <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=Java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-007396?style=for-the-badge&logo=SpringBoot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+</div>
 
-  ### 😊 Visitors
-  
-  <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
-  <br>
-  <br>
-  
-  </div>
-  
-   ---
-   
-   ### 🖼️My Project
+---
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Han-Yip-Man-back&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Han-Yip-Man-back">
-</picture>](https://github.com/zmfpdl64/Han-Yip-Man-back)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=shopping-mall-back-end&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=shopping-mall-back-end">
-</picture>](https://github.com/zmfpdl64/shopping-mall-back-end)  
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JAVA_SNS&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JAVA_SNS">
-</picture>](https://github.com/zmfpdl64/JAVA_SNS)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS">
-</picture>](https://github.com/zmfpdl64/StudyCafe-AWS)
+<div align="center">
+  <h2>📬 Contact</h2>
+  <b>Email:</b> zmfpdl64@naver.com<br>
+  <b>Server:</b> <a href="https://kbookmark.co.kr">Kbookmark</a> (<a href="https://github.com/zmfpdl64/BookMark?tab=readme-ov-file">GitHub</a>)
+</div>
 
-### ✍️Practice
+---
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=crawlling&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=crawlling">
-</picture>](https://github.com/zmfpdl64/crawlling)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy">
-</picture>](https://github.com/zmfpdl64/JpaORMStudy)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Programers_code_test&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Programers_code_test">
-</picture>](https://github.com/zmfpdl64/Programers_code_test)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=SUPER&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=SUPER">
-</picture>](https://github.com/zmfpdl64/SUPER)
+<div align="center">
+  <h2>🖼️ Projects & Practice</h2>
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/zmfpdl64/Han-Yip-Man-back"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Han-Yip-Man-back"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/shopping-mall-back-end"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=shopping-mall-back-end"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/JAVA_SNS"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JAVA_SNS"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/StudyCafe-AWS"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=StudyCafe-AWS"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/zmfpdl64/crawlling"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=crawlling"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/JpaORMStudy"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=JpaORMStudy"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/Programers_code_test"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Programers_code_test"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/SUPER"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=SUPER"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/zmfpdl64/mvc_base"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=mvc_base"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/LearningReact"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=LearningReact"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/fastcampus-project-board"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=fastcampus-project-board"/></a></td>
+      <td align="center"><a href="https://github.com/zmfpdl64/django_woojin_web"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=django_woojin_web"/></a></td>
+    </tr>
+  </table>
+</div>
 
+---
 
-### 📕 Learning
+<div align="center">
+  <h2>🌟 Featured: Review-Analysis</h2>
+  <a href="https://github.com/zmfpdl64/Review-Analysis"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Review-Analysis"/></a>
+  <details>
+    <summary>프로젝트 개요 및 보안 안내 (클릭)</summary>
+    <ul>
+      <li><b>모던 웹 풀스택</b>: React(Frontend) + FastAPI(Backend) + ElasticSearch</li>
+      <li><b>폴더 구조 분리</b>: front_study(프론트), back_woo(백엔드), 데이터/모델/유틸리티 명확 분리</li>
+      <li><b>API 기반 통신</b>: RESTful API로 프론트-백엔드 완전 분리</li>
+      <li><b>분석 페이지 & 3D 시각화</b>: Three.js 기반 3D, 동적 데이터 매칭, 다양한 뷰 모드</li>
+      <li><b>백엔드 성능</b>: 초고속 응답, 대용량 로그 처리, 비동기 분석</li>
+      <li><b>Frontend/Backend 상세 구조 및 소스코드, API 정보는 회사 보안 및 저작권 보호를 위해 비공개</b></li>
+      <li><b>개발 결과물 동영상</b>:
+        <ul>
+          <li><a href="https://youtu.be/3VKJ_54wKLw">룰기반 회피기동</a></li>
+          <li><a href="https://youtu.be/GqRcHVKAKSE">강화학습 기반 회피기동</a></li>
+          <li><a href="https://youtu.be/oAjak6uGbwA">시뮬레이션 분석 시각화</a></li>
+          <li><a href="https://youtu.be/w7pPpq7nIug">시뮬레이션 강화학습 모델 수치 시각화</a></li>
+        </ul>
+      </li>
+    </ul>
+  </details>
+</div>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=mvc_base&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=mvc_base">
-</picture>](https://github.com/zmfpdl64/mvc_base)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=LearningReact&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=LearningReact">
-</picture>](https://github.com/zmfpdl64/LearningReact)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=fastcampus-project-board&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=fastcampus-project-board">
-</picture>](https://github.com/zmfpdl64/fastcampus-project-board)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=django_woojin_web&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=django_woojin_web">
-</picture>](https://github.com/zmfpdl64/django_woojin_web)
- 
-  </div>
+---
+
+<div align="center">
+  <h2>📊 Stats & Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=zmfpdl64&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmfpdl64&theme=radical&layout=compact&langs_count=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmfpdl64&theme=radical"/>
+
+---
+
+<div align="center">
+  <sub>🦄 2025 zmfpdl64 | All code, data & ideas are protected. Powered by Github.</sub>
+</div>
