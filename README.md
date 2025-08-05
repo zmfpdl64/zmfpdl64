@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69797420/232721853-b1e3c4fe-a92b-4e90-91b3-165dfc851848.png" width="120" />
+  <img src="https://user-images.githubusercontent.com/69797420/232721853-b1e3c4fe-a92b-4e90-91b3-165dfc851848.png" width="1000" />
   
   <h1 style="color:#7f5af0;font-size:2.5em;">🚀 zmfpdl64's Creative Space</h1>
   <p><b>코드, 데이터, 그리고 상상을 현실로</b></p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64%2Fhit-counter&count_bg=%237f5af0&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+  
 </div>
 
 ---
@@ -65,7 +65,6 @@
       <li><b>API 기반 통신</b>: RESTful API로 프론트-백엔드 완전 분리</li>
       <li><b>분석 페이지 & 3D 시각화</b>: Three.js 기반 3D, 동적 데이터 매칭, 다양한 뷰 모드</li>
       <li><b>백엔드 성능</b>: 초고속 응답, 대용량 로그 처리, 비동기 분석</li>
-      <li><b>Frontend/Backend 상세 구조 및 소스코드, API 정보는 회사 보안 및 저작권 보호를 위해 비공개</b></li>
       <li><b>개발 결과물 동영상</b>:
         <ul>
           <li><a href="https://youtu.be/3VKJ_54wKLw">룰기반 회피기동</a></li>
