@@ -64,7 +64,7 @@
       <li><b>폴더 구조 분리</b>: front_study(프론트), back_woo(백엔드), 데이터/모델/유틸리티 명확 분리</li>
       <li><b>API 기반 통신</b>: RESTful API로 프론트-백엔드 완전 분리</li>
       <li><b>분석 페이지 & 3D 시각화</b>: Three.js 기반 3D, 동적 데이터 매칭, 다양한 뷰 모드</li>
-      <li><b>백엔드 성능</b>: 초고속 응답, 대용량 로그 처리, 비동기 분석</li>
+      <li><b>백엔드 성능</b>: 초고속 응답, 대용량 로그 처리</li>
       <li><b>개발 결과물 동영상</b>:
         <ul>
           <li><a href="https://youtu.be/3VKJ_54wKLw">룰기반 회피기동</a></li>
