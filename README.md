@@ -54,28 +54,7 @@
 
 ---
 
-<div align="center">
-  <h2>🌟 Featured: Review-Analysis</h2>
-  <a href="https://github.com/zmfpdl64/Review-Analysis"><img src="https://ghrs.vercel.app/api/pin/?username=zmfpdl64&repo=Review-Analysis"/></a>
-  <details>
-    <summary>프로젝트 개요 (클릭)</summary>
-    <ul>
-      <li><b>모던 웹 풀스택</b>: React(Frontend) + FastAPI(Backend) + ElasticSearch</li>
-      <li><b>폴더 구조 분리</b>: front_study(프론트), back_woo(백엔드), 데이터/모델/유틸리티 명확 분리</li>
-      <li><b>API 기반 통신</b>: RESTful API로 프론트-백엔드 완전 분리</li>
-      <li><b>분석 페이지 & 3D 시각화</b>: Three.js 기반 3D, 동적 데이터 매칭, 다양한 뷰 모드</li>
-      <li><b>개발 결과물 동영상</b>:
-        <ul>
-          <li><a href="https://youtu.be/3VKJ_54wKLw">룰기반 회피기동</a></li>
-          <li><a href="https://youtu.be/GqRcHVKAKSE">강화학습 기반 회피기동</a></li>
-          <li><a href="https://youtu.be/w7pPpq7nIug">시뮬레이션 강화학습 모델 수치 시각화</a></li>
-        </ul>
-      </li>
-    </ul>
-  </details>
-</div>
 
----
 
 <div align="center">
   <h2>📊 Stats & Languages</h2>
