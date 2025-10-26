@@ -42,65 +42,54 @@
 
 ## 💼 Featured Projects
 
-### 🌟 Main Projects
+### 📚 [Kbookmark](https://github.com/zmfpdl64/BookMark) - 북마크 관리 플랫폼
 
-<table>
-<tr>
-<td width="50%">
+> Spring Boot 기반 개인 북마크 서비스 | [🌐 Live Demo](https://kbookmark.co.kr)
 
-#### 📚 [Kbookmark](https://github.com/zmfpdl64/BookMark)
-**북마크 관리 플랫폼**
-- Spring Boot 기반 백엔드 개발
-- AWS 배포 및 운영 ([Live Demo](https://kbookmark.co.kr))
-- RESTful API 설계 및 구현
+- **Backend**: Spring Boot, JPA, MySQL
+- **DevOps**: AWS EC2, Docker, Nginx
+- **주요 기능**: 북마크 CRUD, 카테고리 관리, 태그 시스템, RESTful API
 
-</td>
-<td width="50%">
+---
 
-#### 🍜 [Han-Yip-Man](https://github.com/zmfpdl64/Han-Yip-Man-back)
-**맛집 추천 서비스 백엔드**
-- Spring Boot + JPA 활용
-- 위치 기반 맛집 추천 API
-- OAuth2 소셜 로그인 구현
+### 🍜 [Han-Yip-Man](https://github.com/zmfpdl64/Han-Yip-Man-back) - 맛집 추천 서비스
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+> 위치 기반 맛집 추천 백엔드 API
 
-#### 🛒 [Shopping Mall](https://github.com/zmfpdl64/shopping-mall-back-end)
-**이커머스 플랫폼 백엔드**
-- 장바구니, 주문, 결제 시스템
-- 상품 관리 및 재고 시스템
-- 사용자 인증 및 권한 관리
+- **Backend**: Spring Boot, JPA, OAuth2
+- **주요 기능**: 위치 기반 맛집 검색, 소셜 로그인, 리뷰 시스템
+- **특징**: 카카오/구글 OAuth2 인증, 지도 API 연동
 
-</td>
-<td width="50%">
+---
 
-#### 💬 [Java SNS](https://github.com/zmfpdl64/JAVA_SNS)
-**소셜 네트워크 서비스**
-- 게시글, 댓글, 좋아요 기능
-- 팔로우 시스템 구현
-- 실시간 알림 기능
+### 🛒 [Shopping Mall](https://github.com/zmfpdl64/shopping-mall-back-end) - 이커머스 플랫폼
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+> 전자상거래 백엔드 시스템
 
-#### ✈️ [AI Flight Simulator](https://github.com/zmfpdl64/Review-Analysis)
-**AI 비행체 시뮬레이션 분석 플랫폼**
-- React + FastAPI 풀스택 개발
-- Three.js 기반 3D 비행 궤적 시각화
-- F-16 회피기동 강화학습 분석
-- ElasticSearch 로그 분석 시스템
+- **Backend**: Spring Boot, JPA, MySQL
+- **주요 기능**: 상품 관리, 장바구니, 주문/결제, 재고 관리
+- **특징**: 사용자 권한 관리, 주문 상태 추적, 결제 시스템 연동
 
-</td>
-<td width="50%">
+---
 
-</td>
-</tr>
-</table>
+### 💬 [Java SNS](https://github.com/zmfpdl64/JAVA_SNS) - 소셜 네트워크 서비스
+
+> Spring Boot 기반 SNS 플랫폼
+
+- **Backend**: Spring Boot, JPA, WebSocket
+- **주요 기능**: 게시글/댓글, 좋아요, 팔로우, 실시간 알림
+- **특징**: WebSocket 실시간 통신, 이미지 업로드
+
+---
+
+### ✈️ [AI Flight Simulator](https://github.com/zmfpdl64/Review-Analysis) - 비행체 시뮬레이션 분석
+
+> F-16 회피기동 강화학습 분석 풀스택 플랫폼
+
+- **Frontend**: React (TypeScript), Three.js, Recoil
+- **Backend**: Python, FastAPI, ElasticSearch
+- **주요 기능**: 3D 비행 궤적 시각화, AI 로그 분석, 프레임별 데이터 매칭
+- **특징**: Three.js 3D 렌더링, 평균 응답시간 0.1~0.3초, 비동기 처리
 
 ### 📖 Learning & Practice
 
