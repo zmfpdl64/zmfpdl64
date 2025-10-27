@@ -57,6 +57,17 @@
 
 ## 💼 Featured Projects
 
+### ✈️ [AI Flight Simulator](https://github.com/zmfpdl64/Review-Analysis) - 비행체 시뮬레이션 분석
+
+> F-16 회피기동 강화학습 분석 풀스택 플랫폼
+
+- **Frontend**: React (TypeScript), Three.js, Recoil
+- **Backend**: Python, FastAPI, ElasticSearch
+- **주요 기능**: 3D 비행 궤적 시각화, AI 로그 분석, 프레임별 데이터 매칭
+- **특징**: Three.js 3D 렌더링, 평균 응답시간 0.1~0.3초, 비동기 처리
+
+---
+
 ### 📚 [Kbookmark](https://github.com/zmfpdl64/BookMark) - 북마크 관리 플랫폼
 
 > Spring Boot 기반 개인 북마크 서비스 | [🌐 Live Demo](https://kbookmark.co.kr)
@@ -69,11 +80,11 @@
 
 ### 🍜 [Han-Yip-Man](https://github.com/zmfpdl64/Han-Yip-Man-back) - 맛집 추천 서비스
 
-> 위치 기반 맛집 추천 백엔드 API
+> 위치 기반 배달 이커머스 백엔드 API
 
 - **Backend**: Spring Boot, JPA, OAuth2
 - **주요 기능**: 위치 기반 맛집 검색, 소셜 로그인, 리뷰 시스템
-- **특징**: 카카오/구글 OAuth2 인증, 지도 API 연동
+- **특징**: 카카오/구글 OAuth2 인증
 
 ---
 
@@ -87,24 +98,7 @@
 
 ---
 
-### 💬 [Java SNS](https://github.com/zmfpdl64/JAVA_SNS) - 소셜 네트워크 서비스
 
-> Spring Boot 기반 SNS 플랫폼
-
-- **Backend**: Spring Boot, JPA, WebSocket
-- **주요 기능**: 게시글/댓글, 좋아요, 팔로우, 실시간 알림
-- **특징**: WebSocket 실시간 통신, 이미지 업로드
-
----
-
-### ✈️ [AI Flight Simulator](https://github.com/zmfpdl64/Review-Analysis) - 비행체 시뮬레이션 분석
-
-> F-16 회피기동 강화학습 분석 풀스택 플랫폼
-
-- **Frontend**: React (TypeScript), Three.js, Recoil
-- **Backend**: Python, FastAPI, ElasticSearch
-- **주요 기능**: 3D 비행 궤적 시각화, AI 로그 분석, 프레임별 데이터 매칭
-- **특징**: Three.js 3D 렌더링, 평균 응답시간 0.1~0.3초, 비동기 처리
 
 ### 📖 Learning & Practice
 
