@@ -78,7 +78,18 @@
 
 ---
 
-### 🍜 [Han-Yip-Man](https://github.com/zmfpdl64/Han-Yip-Man-back) - 맛집 추천 서비스
+### ☕ [Koreano](https://github.com/Team-Koreano/Koreano) - 커피 이커머스 플랫폼
+
+> MSA 기반 커피 전문 전자상거래 플랫폼
+
+- **Backend**: Spring Boot, JPA, QueryDSL, Redisson
+- **Infrastructure**: Kafka, Redis, ElasticSearch, Docker, AWS
+- **주요 기능**: 빈페이 포인트/결제 기능 구현, Toss 테스트 결제 API 연동
+- **특징**: MSA 아키텍처 (User/Product/Order/Payment), 분산 락을 통한 동시성 제어, Kafka 이벤트 기반 비동기 처리, ElasticSearch 상품 검색
+
+---
+
+### 🍜 [Han-Yip-Man](https://github.com/zmfpdl64/Han-Yip-Man-back) - 음식 주문 이커머스 플랫폼
 
 > 배달 이커머스 백엔드 API
 
@@ -88,7 +99,7 @@
 
 ---
 
-### 🛒 [Shopping Mall](https://github.com/zmfpdl64/shopping-mall-back-end) - 이커머스 플랫폼
+### 🛒 [Shopping Mall](https://github.com/zmfpdl64/shopping-mall-back-end) - 보드게임 이커머스 플랫폼
 
 > 보드게임 이커머스 백엔드 시스템
 
