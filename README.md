@@ -40,6 +40,21 @@
 
 </div>
 
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| 자격증 | 취득일자 |
+|:---:|:---:|
+| 정보처리기사 | 2025.09.12 |
+| SQLD (SQL 개발자) | 2024.12.13 |
+
+</div>
+
+---
+
 ## 💼 Featured Projects
 
 ### 📚 [Kbookmark](https://github.com/zmfpdl64/BookMark) - 북마크 관리 플랫폼
