@@ -62,7 +62,7 @@
 > F-16 회피기동 강화학습 분석 풀스택 플랫폼
 
 - **Frontend**: React (TypeScript), Three.js, Recoil
-- **Backend**: Python, FastAPI, ElasticSearch
+- **Backend**: Python, FastAPI, ElasticSearch, MySQL, Minio
 - **주요 기능**: 3D 비행 궤적 시각화, AI 로그 분석, 프레임별 데이터 매칭
 - **특징**: Three.js 3D 렌더링, 평균 응답시간 0.1~0.3초, 비동기 처리
 
@@ -80,21 +80,21 @@
 
 ### 🍜 [Han-Yip-Man](https://github.com/zmfpdl64/Han-Yip-Man-back) - 맛집 추천 서비스
 
-> 위치 기반 배달 이커머스 백엔드 API
+> 배달 이커머스 백엔드 API
 
-- **Backend**: Spring Boot, JPA, OAuth2
-- **주요 기능**: 위치 기반 맛집 검색, 소셜 로그인, 리뷰 시스템
-- **특징**: 카카오/구글 OAuth2 인증
+- **Backend**: Spring Boot, JPA
+- **주요 기능**: 주문, 장바구니 개발
+- **특징**: 주문, 장바구니 개발
 
 ---
 
 ### 🛒 [Shopping Mall](https://github.com/zmfpdl64/shopping-mall-back-end) - 이커머스 플랫폼
 
-> 전자상거래 백엔드 시스템
+> 보드게임 이커머스 백엔드 시스템
 
 - **Backend**: Spring Boot, JPA, MySQL
-- **주요 기능**: 상품 관리, 장바구니, 주문/결제, 재고 관리
-- **특징**: 사용자 권한 관리, 주문 상태 추적, 결제 시스템 연동
+- **주요 기능**: 인증/인가, 인프라 개발
+- **특징**: 회원, 인증/인가, 인프라(AWS), OAuth 2.0 (Kakao)
 
 ---
 
