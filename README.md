@@ -5,7 +5,7 @@
 ### Backend Developer | Full-Stack Enthusiast | Problem Solver
 
 <p>
-  <i>코드로 문제를 해결하고, 데이터로 가치를 창출하며, 지속적으로 성장하는 개발자입니다.</i>
+  <i>코드로 문제를 해결하고, 팀원에게 이해하기 쉽게 도식화로 공유하고, 지속적으로 성장하는 개발자입니다.</i>
 </p>
 
 [![Email](https://img.shields.io/badge/Email-zmfpdl64%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zmfpdl64@naver.com)
