@@ -205,11 +205,6 @@ public class Developer {
 
 <div align="center">
 
-### 💭 Quote
-
-*"코드는 작성하는 것보다 읽히는 경우가 더 많다. 읽기 좋은 코드가 좋은 코드다."*
-
-<br/>
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
