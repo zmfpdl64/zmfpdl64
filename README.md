@@ -64,7 +64,6 @@
 - **Frontend**: React (TypeScript), Three.js, Recoil
 - **Backend**: Python, FastAPI, ElasticSearch, MySQL, Minio
 - **주요 기능**: 3D 비행 궤적 시각화, AI 로그 분석, 프레임별 데이터 매칭
-- **특징**: Three.js 3D 렌더링, 평균 응답시간 0.1~0.3초, 비동기 처리
 
 ---
 
