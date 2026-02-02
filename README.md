@@ -8,6 +8,7 @@
   <i>코드로 문제를 해결하고, 팀원에게 이해하기 쉽게 도식화로 공유하고, 지속적으로 성장하는 개발자입니다.</i>
 </p>
 
+[![Blog](https://img.shields.io/badge/Blog-zmfpdl64.github.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://zmfpdl64.github.io)
 [![Email](https://img.shields.io/badge/Email-zmfpdl64%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zmfpdl64@naver.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kbookmark.co.kr-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://kbookmark.co.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-zmfpdl64-181717?style=flat-square&logo=github)](https://github.com/zmfpdl64)
@@ -184,6 +185,7 @@ public class Developer {
 
 - 🔭 Spring Boot 및 MSA 아키텍처 심화 학습
 - 🌐 Kbookmark 서비스 운영 및 개선
+- 📝 [기술 블로그](https://zmfpdl64.github.io) 운영 - 개발 경험 및 학습 기록 공유
 - 💡 알고리즘 및 자료구조 꾸준히 학습
 - 🚀 효율적인 코드와 클린 아키텍처 추구
 
@@ -195,6 +197,7 @@ public class Developer {
 
 <div align="center">
 
+[![Blog](https://img.shields.io/badge/Blog-Tech%20Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white)](https://zmfpdl64.github.io)
 [![Email](https://img.shields.io/badge/Email-zmfpdl64%40naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmfpdl64@naver.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kbookmark.co.kr)
 
@@ -207,6 +210,6 @@ public class Developer {
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmfpdl64&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
-<sub>✨ 2025 Woojin Lee (zmfpdl64) | Building Better Solutions</sub>
+<sub>✨ 2026 Woojin Lee (zmfpdl64) | Building Better Solutions</sub>
 
 </div>
